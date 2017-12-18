@@ -157,3 +157,6 @@
 [submodule "libraries/Kaleidoscope-NumPad"]
 	path = libraries/Kaleidoscope-NumPad
 	url = https://github.com/Keyboardio/Kaleidoscope-NumPad
+[submodule "libraries/LEDFlickers"]
+	path = libraries/LEDFlickers
+	url = /home/ryan/src/LEDFlickers
