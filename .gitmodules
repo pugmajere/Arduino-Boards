@@ -160,3 +160,12 @@
 [submodule "libraries/Kaleidoscope-HostPowerManagement"]
 	path = libraries/Kaleidoscope-HostPowerManagement
 	url = https://github.com/keyboardio/Kaleidoscope-HostPowerManagement
+[submodule "libraries/LEDFlickers"]
+	path = libraries/LEDFlickers
+	url = https://github.com/pugmajere/LEDFlickers.git
+[submodule "libraries/Kaleidoscope-Qukeys"]
+	path = libraries/Kaleidoscope-Qukeys
+	url = https://github.com/gedankenlab/Kaleidoscope-Qukeys
+[submodule "libraries/Kaleidoscope-KeyLogger"]
+	path = libraries/Kaleidoscope-KeyLogger
+	url = https://github.com/keyboardio/Kaleidoscope-KeyLogger.git
