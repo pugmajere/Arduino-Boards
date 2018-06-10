@@ -19,9 +19,6 @@
 [submodule "libraries/Kaleidoscope-TapDance"]
 	path = libraries/Kaleidoscope-TapDance
 	url = https://github.com/keyboardio/Kaleidoscope-TapDance
-[submodule "libraries/Kaleidoscope-IgnoranceIsBliss"]
-	path = libraries/Kaleidoscope-IgnoranceIsBliss
-	url = https://github.com/keyboardio/Kaleidoscope-IgnoranceIsBliss
 [submodule "libraries/Kaleidoscope-Escape-OneShot"]
 	path = libraries/Kaleidoscope-Escape-OneShot
 	url = https://github.com/keyboardio/Kaleidoscope-Escape-OneShot
