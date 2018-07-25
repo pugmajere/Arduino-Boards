@@ -19,9 +19,6 @@
 [submodule "libraries/Kaleidoscope-TapDance"]
 	path = libraries/Kaleidoscope-TapDance
 	url = https://github.com/keyboardio/Kaleidoscope-TapDance
-[submodule "libraries/Kaleidoscope-IgnoranceIsBliss"]
-	path = libraries/Kaleidoscope-IgnoranceIsBliss
-	url = https://github.com/keyboardio/Kaleidoscope-IgnoranceIsBliss
 [submodule "libraries/Kaleidoscope-Escape-OneShot"]
 	path = libraries/Kaleidoscope-Escape-OneShot
 	url = https://github.com/keyboardio/Kaleidoscope-Escape-OneShot
@@ -150,7 +147,7 @@
 	url = https://github.com/Keyboardio/Model01-Firmware
 [submodule "libraries/Kaleidoscope-Hardware"]
 	path = libraries/Kaleidoscope-Hardware
-	url = https://github.com/Keyboardio/Kaleidoscope-Hardware/
+	url = https://github.com/Keyboardio/Kaleidoscope-Hardware
 [submodule "libraries/Kaleidoscope-NumPad"]
 	path = libraries/Kaleidoscope-NumPad
 	url = https://github.com/Keyboardio/Kaleidoscope-NumPad
@@ -175,3 +172,15 @@
 [submodule "libraries/Kaleidoscope-HIDAdaptor-KeyboardioHID"]
 	path = libraries/Kaleidoscope-HIDAdaptor-KeyboardioHID
 	url = https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID
+[submodule "libraries/Kaleidoscope-Qukeys"]
+	path = libraries/Kaleidoscope-Qukeys
+	url = https://github.com/keyboardio/Kaleidoscope-Qukeys
+[submodule "libraries/Kaleidoscope-Redial"]
+	path = libraries/Kaleidoscope-Redial
+	url = https://github.com/keyboardio/Kaleidoscope-Redial
+[submodule "libraries/Kaleidoscope-Hardware-EZ-ErgoDox"]
+	path = libraries/Kaleidoscope-Hardware-EZ-ErgoDox
+	url = https://github.com/keyboardio/Kaleidoscope-Hardware-EZ-ErgoDox
+[submodule "libraries/Kaleidoscope-USB-Quirks"]
+	path = libraries/Kaleidoscope-USB-Quirks
+	url = https://github.com/keyboardio/Kaleidoscope-USB-Quirks
